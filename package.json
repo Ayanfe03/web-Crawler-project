@@ -1,0 +1,23 @@
+{
+  "name": "web-crawler-project",
+  "version": "1.0.0",
+  "description": "My first web crawler",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ayanfe03/web-Crawler-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ayanfe03/web-Crawler-project/issues"
+  },
+  "homepage": "https://github.com/Ayanfe03/web-Crawler-project#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
